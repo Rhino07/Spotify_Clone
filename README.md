@@ -4,6 +4,7 @@
 
 This project is a **Spotify-inspired web application** currently focused on building a responsive and visually accurate **frontend UI** using **HTML, CSS, and Bootstrap**. The goal of this project is to replicate the core design, layout, and user experience of Spotify’s web player.
 Currently, the project includes only the homepage UI with no underlying functionality or backend integration.
+
 🚀 **Future Enhancements**
 The project will be extended into a **fully functional full-stack application**, including:
 
